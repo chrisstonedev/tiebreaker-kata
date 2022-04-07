@@ -32,4 +32,4 @@ Implement the tie-breaking rules as found on [nba.com/standings](https://www.nba
 
 ## Ideas
 
-- Use actual game data as defined in the project.
+- Use the test cases to use specific game data for specific situations, or use your own mock data.
